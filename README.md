@@ -1,6 +1,5 @@
 # ContactManager
 ![.NET Version](https://img.shields.io/badge/.NET-8.0-purple)
-[![OpenLibrary API](https://img.shields.io/badge/API-OpenLibrary-blue)](https://openlibrary.org)
 
 ### Консольное приложение «Менеджер контактов» на C#
 
