@@ -1,11 +1,10 @@
 # ContactManager
 ![.NET Version](https://img.shields.io/badge/.NET-8.0-purple)
-![License](https://img.shields.io/badge/License-MIT-green)
 [![OpenLibrary API](https://img.shields.io/badge/API-OpenLibrary-blue)](https://openlibrary.org)
 
 ### Консольное приложение «Менеджер контактов» на C#
 
-### **Основные возможности:**
+### Основные возможности:
 
 ## Чтение и хранение данных о контактах в формате: [ID контакта] [Имя] [Фамилия] [Телефон] [Email]
 
